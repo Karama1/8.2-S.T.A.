@@ -1,1 +1,7 @@
 # 8.2-S.T.A.
+How can I ensure that my code, program, or software is functional and secure?
+When checking over the program there are 2 main ways I can check to make sure it's functional and secure. The first is to check for coding errors (which is done automatically through Eclipse), which'll take care of most errors that could happen. The second way I could check is to run the code as is to see if I get my expected result (including JUnit testing). Both of these together have a program/software that ends up being functional. As far as security, the best way would be to ensure the security measure taken is correctly coded in and works as it should (running the code and seeing if the decryption works correctly).
+How do I interpret user needs and incorporate them into a program?
+Interpreting user needs for software developers is based on the constraints given to me. I go by the restrictions and necessities first when writing code. Once I feel this is successfully made, I'll decide to, if I want to, add additionnal detail and ease of reading for the client.
+How do I approach designing software?
+When approaching design software, it all depends on the project. First step is to get a template for what you're working on (ex. school software, business, personal, etc.) and get the restraints for what the client wants the resulting code to do. After this, it's a matter of following the requirements to develop what's needed while using any resources you have to correctly make the coding secure and made to the client's needs.
